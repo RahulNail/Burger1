@@ -9,27 +9,7 @@ self.addEventListener('install' , (event)=>{
         "https://rahulnail.github.io/Burger/index.html",
         "https://rahulnail.github.io/Burger/js/script.js",
         "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
-        "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css",
-        "https://rahulnail.github.io/Burger/images/about-img.png",
-        "https://rahulnail.github.io/Burgerimages/background.jpg",
-        "https://rahulnail.github.io/Burger/images/blog-1.jpg",
-        "https://rahulnail.github.io/Burger/images/blog-2.jpg",
-        "https://rahulnail.github.io/Burger/images/blog-3.jpg",
-        "https://rahulnail.github.io/Burger/images/burger_app_logo.png",
-        "https://rahulnail.github.io/Burger/images/burger-banner.png",
-        "https://rahulnail.github.io/Burger/images/home-bg.png",
-        "https://rahulnail.github.io/Burger/images/logo.png",
-        "https://rahulnail.github.io/Burger/images/pic-1.png",
-        "https://rahulnail.github.io/Burger/images/pic-2.png",
-        "https://rahulnail.github.io/Burger/images/pic-3.png",
-        "https://rahulnail.github.io/Burger/images/product-1.png",
-        "https://rahulnail.github.io/Burger/images/product-2.png",
-        "https://rahulnail.github.io/Burger/images/product-3.png",
-        "https://rahulnail.github.io/Burger/images/product-4.png",
-        "https://rahulnail.github.io/Burger/images/product-5.png",
-        "https://rahulnail.github.io/Burger/images/product-6.png",
-        "https://rahulnail.github.io/Burger/images/sec_img.png",
-        "https://rahulnail.github.io/Burger/images/title-img.png",
+        "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
 
       ]).catch((error)=>{
           console.log(error)
