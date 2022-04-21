@@ -7,9 +7,8 @@ self.addEventListener('install' , (event)=>{
         "https://rahulnail.github.io/Burger/",
         "https://rahulnail.github.io/Burger/css/style.css",
         "https://rahulnail.github.io/Burger/index.html",
-        "https://rahulnail.github.io/Burger/js/script.js",
-        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
-        "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
+        "https://rahulnail.github.io/Burger/js/script.js"
+       
 
       ]).catch((error)=>{
           console.log(error)
