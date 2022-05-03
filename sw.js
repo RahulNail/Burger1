@@ -4,10 +4,10 @@ self.addEventListener('install' , (event)=>{
   caches.open("static")
   .then((Cache)=>{
       Cache.addAll([
-        "https://rahulnail.github.io/Burger/",
-        "https://rahulnail.github.io/Burger/css/style.css",
-        "https://rahulnail.github.io/Burger/index.html",
-        "https://rahulnail.github.io/Burger/js/script.js"
+        "https://rahulnail.github.io/Burger1/",
+        "https://rahulnail.github.io/Burger1/css/style.css",
+        "https://rahulnail.github.io/Burger1/index.html",
+        "https://rahulnail.github.io/Burger1/js/script.js"
        
 
       ]).catch((error)=>{
